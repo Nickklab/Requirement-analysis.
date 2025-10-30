@@ -59,6 +59,15 @@ Use case diagrams show how different users (actors) interact with the system to 
   ![Use Case Diagram](./alx-booking-uc.drawio.png)
 
 
+# Acceptance Criteria
+Importance of Acceptance Criteria
+- It ensure all parties have a clear understanding of feature requirements.
+- It Provide a basis for testing and validation.
+- It helps in maintaining quality and meeting user expectations
+
+Example for Checkout System: Payment options available;Users should be able to select from at least one valid payment method (e.g., credit/debit card, PayPal).
+
+
 
 
 
