@@ -56,6 +56,8 @@ Use case diagrams show how different users (actors) interact with the system to 
 - Facilitate communication among stakeholders and development team.
 
   # Alx Booking Use Case Diagram
+  ![Use Case Diagram](./alx-booking-uc.drawio.png)
+
 
 
 
