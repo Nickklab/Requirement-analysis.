@@ -56,7 +56,6 @@ Use case diagrams show how different users (actors) interact with the system to 
 - Facilitate communication among stakeholders and development team.
 
   # Alx Booking Use Case Diagram
-  ![Alt text](https://github.com/Nickklab/Requirement-analysis./commit/08ea0249e148599c2d3d2ac4e1a8b2b266f75c10)
 
 
 
